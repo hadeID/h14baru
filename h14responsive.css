@@ -1,0 +1,93 @@
+/* Untuk  Tablet/iPad */
+@media all and (max-width: 1000px) {
+
+/* Bagian Judul */
+
+
+/* Bagian Header */
+.kotak { 
+	margin:10px auto;
+	width: 500px;
+	height: 350px; 
+}
+
+.kotak-img img { 
+	width: 500px;
+	height: 350px; 
+	float: left;
+	border-radius: 8px;
+}
+
+/* Bagian Isi Pertama */
+	
+
+/* Bagian Isi Kedua */
+
+
+
+/* Bagian Isi Ketiga */
+.heading h3 {
+    font-size: 20px;
+  }
+	
+
+
+/* Bagian Footer */
+
+
+
+
+}
+
+/* Untuk Smartphone/Android */
+@media all and (max-width: 670px) {
+
+/* Bagian Judul */
+
+.menu-icon{
+    display:block;
+  }
+
+/* Bagian Header */
+.kotak { 
+	margin:10px auto;
+	width: 300px;
+	height: 195px; 
+}
+
+.kotak-img img { 
+	width: 300px;
+	height: 195px; 
+	float: left;
+	border-radius: 8px;
+}
+
+.bagian-atas h1{
+ font-size:20px;   
+ letter-spacing: 5px;
+ margin-bottom: 5px;
+}
+
+.bagian-atas p{
+ font-size:10px; 
+}
+
+/* Bagian Isi Pertama */
+
+
+/* Bagian Isi Kedua */
+
+
+
+/* Bagian Isi Ketiga */
+	.btn {
+    	width: 100%;
+  	}
+
+/* Bagian Footer */
+
+
+}
+
+
+/* Untuk Handphone iOs */
